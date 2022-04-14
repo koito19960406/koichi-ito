@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
+# activate/deactivate this widget
+active: false
+
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
 subtitle:
