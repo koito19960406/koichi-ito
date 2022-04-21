@@ -25,7 +25,7 @@ summary: We advanced the comprehensive assessment of bikeability using street vi
 tags:
 - Street View Imagery
 - Human Mobility
-title: "Street view imagery in urban analytics and GIS: A review"
+title: "Assessing bikeability with street view imagery and computer vision"
 url_code: ""
 url_dataset: ""
 url_pdf: uploads/2021-trc-bikeability.pdf
