@@ -131,7 +131,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: 'koichi-ito'
+    shortname: ''
     show_count: true
   commento:
     url: ''
