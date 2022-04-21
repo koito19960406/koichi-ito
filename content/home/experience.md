@@ -64,8 +64,8 @@ experience:
     date_start: '2020-04-01'
     date_end: '2021-01-31'
     description: |2-
-        * Collected and wrangled a comprehensive data set of more than 4,000 Tokyo-based startups’ numerous information, such as addresses, investors, and accelerators in Python (The report is available [here](http://hdl.handle.net/10986/36462).)
-        * Visualized financial performance of light rail transport system in Toyama prefecture between 2002 and 2019 (The report is available [here](http://hdl.handle.net/10986/35180).)
+        * Collected and wrangled a comprehensive data set of more than 4,000 Tokyo-based startups’ numerous information, such as addresses, investors, and accelerators in Python (The report is available [here](https://openknowledge.worldbank.org/handle/10986/36462).)
+        * Visualized financial performance of light rail transport system in Toyama prefecture between 2002 and 2019 (The report is available [here](https://openknowledge.worldbank.org/handle/10986/35180).)
         
 design:
   columns: '2'
