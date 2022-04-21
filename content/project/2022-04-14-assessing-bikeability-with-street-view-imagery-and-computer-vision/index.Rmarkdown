@@ -29,7 +29,7 @@ links:
   url: https://koichi-ito.shinyapps.io/bikeabilitymap/?_ga=2.165731576.71122941.1649838014-1565164473.1649838014
   
 url_code: ""
-url_pdf: https://www.researchgate.net/publication/354710278_Assessing_bikeability_with_street_view_imagery_and_computer_vision
+url_pdf: uploads/2021-trc-bikeability.pdf
 url_slides: ""
 url_video: ""
 # Slides (optional).

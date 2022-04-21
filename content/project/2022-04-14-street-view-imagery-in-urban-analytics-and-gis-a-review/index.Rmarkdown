@@ -25,7 +25,7 @@ links:
   url: https://twitter.com/KoichiIto12
   
 url_code: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0169204621001808
+url_pdf: uploads/1-s2.0-S0169204621001808-main.pdf
 url_slides: ""
 url_video: ""
 # Slides (optional).
