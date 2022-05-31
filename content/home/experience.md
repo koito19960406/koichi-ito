@@ -26,7 +26,7 @@ experience:
     company: World Bank (Poverty and Equity Global Practice)
     company_url: 'https://www.worldbank.org/en/home'
     company_logo: world_bank
-    location: Washington, D.C.
+    location: Washington, D.C. (Remote)
     date_start: '2021-04-01'
     date_end: '2021-07-01'
     description: |2-
