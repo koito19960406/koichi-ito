@@ -9,7 +9,7 @@ authors:
 - admin
 date: "2021-08-13T00:00:00Z"
 doi: "https://doi.org/10.1016/j.landurbplan.2021.104217"
-featured: false
+featured: true
 image:
   caption: 'An example of street view imagery analysis'
   focal_point: ""
