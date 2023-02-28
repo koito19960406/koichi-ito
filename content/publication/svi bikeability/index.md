@@ -8,7 +8,7 @@ authors:
 - admin
 - Filip Biljecki
 date: "2021-09-20T00:00:00Z"
-doi: "https://doi.org/10.1016/j.trc.2021.103371"
+doi: "10.1016/j.trc.2021.103371"
 featured: true
 image:
   caption: 'Bikeability score in Singapore and Tokyo'
