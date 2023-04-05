@@ -28,14 +28,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 80%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
 - description: 70%
   icon: database
   icon_pack: fas
   name: SQL
-- description: 60%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
 - description: 50%
   icon: cloud
   icon_pack: fas
