@@ -1,6 +1,6 @@
 ---
 title: Koichi Ito
-role: PhD Student in Urban Analystics at the National University of Singapore
+role: PhD Student in Urban Analytics at the National University of Singapore
 avatar_filename: avatar.jpg
 bio: My research interests include urban analytics, spatial analysis and human
   mobility.
