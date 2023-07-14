@@ -1,10 +1,9 @@
 ---
 abstract: Join us in an exploration of the untapped potential in Street View Imagery (SVI) within the realm of spatial data science.
 date: "2023-09-05T09:00:00Z"
-
 event: Spatial Data Science Symposium 2023
 event_url: http://sdss2023.spatial-data-science.net/
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bSM_jWP5gwc)'
   focal_point: Right
@@ -18,7 +17,7 @@ publishDate: "2023-07-14T00:00:00Z"
 # slides: example
 summary: An engaging session to explore the possibilities and future of Street View Imagery in spatial data science.
 tags: [SVI, Urban Analytics, Spatial Data Science]
-title: Street View Imagery: Have We Answered All The Questions With It? What’s Left to Do?
+title: Street View Imagery`:` Have We Answered All The Questions With It? What’s Left to Do?
 url_code: ""
 url_pdf: "uploads/SDSS_session 20230708.pdf"
 url_slides: ""
