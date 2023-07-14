@@ -6,7 +6,7 @@ event: Spatial Data Science Symposium 2023
 event_url: http://sdss2023.spatial-data-science.net/
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/smgTvepind4)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bSM_jWP5gwc)'
   focal_point: Right
 links:
 - icon: twitter
