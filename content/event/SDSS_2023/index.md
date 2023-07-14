@@ -1,6 +1,6 @@
 ---
 abstract: Join us in an exploration of the untapped potential in Street View Imagery (SVI) within the realm of spatial data science.
-date: "2023-09-05T09:00:00Z"
+date: "2023-09-06T12:45:00Z"
 event: Spatial Data Science Symposium 2023
 event_url: http://sdss2023.spatial-data-science.net/
 featured: false
