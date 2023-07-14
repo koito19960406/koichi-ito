@@ -10,7 +10,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Follow me
   url: https://twitter.com/KoichiIto12
 location: Online
 publishDate: "2023-07-14T00:00:00Z"
