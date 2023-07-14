@@ -24,23 +24,47 @@ url_slides: ""
 url_video: ""
 ---
 
-# Background
-Street View Imagery (SVI) has been at the forefront of numerous remarkable advancements in spatial data science. Yet, it begs the question: Have we exhausted all SVI possibilities or are there uncharted territories waiting to be discovered? In this session, we aim to bridge the gap between experienced researchers and newcomers to SVI.
+# Session Format:
+A Series of Presentations
 
-# Content
-The outline of the session is as following:
+# Session Description:
+Join us in an engaging exploration of the untapped potential in Street View Imagery (SVI)
+within the realm of spatial data science. As we continue to witness remarkable
+advancements, there lingers the question: Have we exhausted all SVI possibilities or are
+there uncharted territories waiting to be discovered? With the emergence of breakthrough
+technologies such as large language models, generative AI methods, and graph-based
+learning, we believe there is an abundant opportunity to leverage SVI across multiple
+urban domains.
 
-Unleashing creativity in identifying novel research topics
-Advancing methodological approaches for SVI
-Overcoming limitations and exploring complementary techniques
-Navigating potential barriers and fostering a supportive environment for new researchers
-Linking SVI approaches to socio-economic perceptions of the city
+In this thought-provoking session, we bridge the gap between experienced researchers
+and newcomers to SVI by showcasing an array of innovative work and encouraging
+stimulating discussions around prevailing challenges and future research possibilities.
+The presentations will cover:
 
-# Speakers
-- Mohamed R. Ibrahim: Lecturer (Assistant Professor) in Spatial Data Science, University of Leeds
+- Unleashing creativity in identifying novel research topics
+- Advancing methodological approaches for SVI
+- Overcoming limitations and exploring complementary techniques
+- Navigating potential barriers and fostering a supportive environment for new researchers
+- Linking SVI approaches to socio-economic perceptions of the city
+
+# Session Hosts
+- Koichi Ito: Urban Analytics Lab at the National University of Singapore
+(koichi.ito@u.nus.edu)
+- Winston Yap: Urban Analytics Lab at the National University of Singapore
+(winstonyym@u.nus.edu)
+
+# Guest Speakers
+- Mohamed R. Ibrahim: Lecturer (Assistant Professor) in Spatial Data
+Science, University of Leeds
 - Yuhao Kang: Assistant Professor at the University of South Carolina
-- Pengyuan Liu: Assistant Professor at Nanjing University of Information Science and Technology
+- Pengyuan Liu: Assistant Professor at Nanjing University of Information Science and
+Technology
 
-We look forward to your participation and fruitful discussions. Let us redefine the boundaries of SVI and unearth the possibilities together.
-
+# Target Audience
+Our session is designed to engage a broad spectrum of attendees. From seasoned SVI
+researchers and novices to city planners and urban practitioners who utilize SVI surveybased methods to gain urban context insights. By featuring our esteemed guest
+speakers, each a torchbearer in SVI expertise and experience, we aspire to kindle
+interest, promote innovation, and foster a collaborative environment for all participants.
+Join us in this quest to redefine the boundaries of SVI and unearth the possibilities
+together.
 
