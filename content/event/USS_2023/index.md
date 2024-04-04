@@ -22,6 +22,7 @@ url_code: ""
 url_pdf: "uploads/Science of Cities Symposium 2023_A0 Poster GAN_mod.pdf"
 url_slides: ""
 url_video: ""
+draft: true
 ---
 
 # Abstract:
