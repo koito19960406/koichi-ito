@@ -1,6 +1,6 @@
 ---
 title: Koichi Ito
-role: PhD Student in Urban Analytics at the National University of Singapore
+role: PhD Candidate in Urban Analytics at the National University of Singapore
 avatar_filename: avatar.jpg
 bio: My research interests include urban analytics, spatial analysis and human
   mobility.
@@ -42,6 +42,6 @@ email: "koichi19960406@gmail.com"
 superuser: true
 highlight_name: true
 ---
-Koichi Ito is a PhD student at the National University of Singapore and has work experience as a consultant at the World Bank Group by leveraging programming skills, interested in researching **human mobility** with emerging spatial data sources, such as **street-view imagery**, and **machine/deep learning techniques**.
+Koichi Ito is a PhD candidate at the National University of Singapore and has work experience as a consultant at the World Bank Group by leveraging programming skills, interested in researching **human mobility** and **human perception** with emerging spatial data sources, such as **street-view imagery**, and **machine/deep learning techniques**.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
