@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD
       institution: National University of Singapore
-      year: 2022-
+      year: 2022-Present
     - course: Master of Urban Planning
       institution: National University of Singapore
       year: 2019-2021
