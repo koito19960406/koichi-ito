@@ -22,6 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Researcher
+    company: Urban Analytics Lab at National University of Singapore
+    company_url: 'https://ual.sg/'
+    company_logo: ual
+    location: Singapore
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |2-
+        * Researching on the use of street view imagery in urban analytics and GIS studies
+        * Developing a novel method using street view imagery and computer vision
+  
+  - title: Visiting Researcher
+    company: The University of Texas at Austin, GISense Lab
+    company_url: 'https://sites.utexas.edu/gisense/people/'
+    company_logo: gisense
+    location: Austin, USA
+    date_start: '2025-02-01'
+    date_end: '2025-04-30'
+    description: |1-
+        * Collaborated with memebers of the GISense Lab on a project related to urban analytics and GIS studies
+
+  - title: Visiting Researcher
+    company: The University of Tokyo, Urban Transportation Research Unit
+    company_url: ''
+    company_logo: utokyo
+    location: Tokyo, Japan
+    date_start: '2025-01-01'
+    date_end: '2025-01-31'
+    description: |1-
+        * Collaborated with memebers of the Urban Transportation Research Unit on a project related to urban analytics and GIS studies
+
   - title: Consultant
     company: World Bank (Poverty and Equity Global Practice)
     company_url: 'https://www.worldbank.org/en/home'
@@ -64,7 +95,7 @@ experience:
     date_start: '2020-04-01'
     date_end: '2021-01-31'
     description: |2-
-        * Collected and wrangled a comprehensive data set of more than 4,000 Tokyo-based startups’ numerous information, such as addresses, investors, and accelerators in Python (The report is available [here](https://openknowledge.worldbank.org/handle/10986/36462).)
+        * Collected and wrangled a comprehensive data set of more than 4,000 Tokyo-based startups' numerous information, such as addresses, investors, and accelerators in Python (The report is available [here](https://openknowledge.worldbank.org/handle/10986/36462).)
         * Visualized financial performance of light rail transport system in Toyama prefecture between 2002 and 2019 (The report is available [here](https://openknowledge.worldbank.org/handle/10986/35180).)
         
 design:
