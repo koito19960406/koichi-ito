@@ -34,6 +34,16 @@ experience:
         * Developing a novel method using street view imagery and computer vision
   
   - title: Visiting Researcher
+    company: TU Delft, CityAI Lab
+    company_url: 'https://www.cityai-lab.nl/'
+    company_logo: cityai-logo
+    location: Delft, Netherlands
+    date_start: '2025-05-01'
+    date_end: '2025-07-31'
+    description: |1-
+        * Collaborated with memebers of the CityAI Lab on a project related to transportation and urban analytics
+  
+  - title: Visiting Researcher
     company: The University of Texas at Austin, GISense Lab
     company_url: 'https://sites.utexas.edu/gisense/people/'
     company_logo: gisense
