@@ -32,6 +32,16 @@ experience:
     description: |2-
         * Researching on the use of street view imagery in urban analytics and GIS studies
         * Developing a novel method using street view imagery and computer vision
+
+  - title: Visiting Researcher
+    company: MIT, Senseable City Lab
+    company_url: 'https://senseable.mit.edu/'
+    company_logo: scl
+    location: Cambridge, USA
+    date_start: '2025-09-15'
+    date_end: '2026-03-31'
+    description: |1-
+        * Collaborated with memebers of the Senseable City Lab on a project related to digital twin and human perception 
   
   - title: Visiting Researcher
     company: TU Delft, CityAI Lab
