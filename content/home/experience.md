@@ -79,7 +79,7 @@ experience:
     company_logo: world_bank
     location: Washington, D.C. (Remote)
     date_start: '2021-04-01'
-    date_end: '2021-07-01'
+    date_end: '2022-07-01'
     description: |2-
         * Examined the impacts of conflicts on socio-economic indicators in the Central African Republic
         * Built Shiny dashboard apps to facilitate analysis of project target indicators in Mozambique, Tanzania, and Romania

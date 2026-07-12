@@ -7,3 +7,12 @@ Thumbs.db
 .hugo_build.lock
 /public/
 /resources/
+
+# CV source: a separate clone of the private repo koito19960406/CV_main.
+# Compile it with cv/build.sh, which publishes cv/main_public.pdf to
+# static/uploads/resume.pdf. Nothing under cv/ belongs in this public repo.
+/cv/
+
+# Tripwire: the full CV must never be served from the website.
+/static/uploads/main_private*
+/static/uploads/*private*.pdf
